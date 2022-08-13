@@ -62,4 +62,4 @@ This tool is only intended for testing purposes and should be used where there i
 
 ### Author
 Twitter: <a href="//twitter.com/rpdharanidhar">twitter @ rpdharnidhar</a><br>
-Email  : <a href="mailto:rpdharanidhar@gmail.com">mail @ Dharanidhar Raja</a>
+Email  : <a href="mailto: rpdharanidhar@gmail.com">mail @ Dharanidhar Raja</a>
