@@ -4,6 +4,7 @@ import re
 import subprocess
 import threading
 import time
+import os
 
 from scapy.layers.dot11 import Dot11
 from scapy.layers.dot11 import Dot11Beacon
